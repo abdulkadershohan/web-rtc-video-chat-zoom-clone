@@ -4,7 +4,7 @@ This is a web application create by using WebRTC and React JS.
 This application can send and receive video call. To  Send a Video call you need to type your name in Accounts info section then have to click copy your id.
 ID will copy in your clipboard then send it to your friends to call. Your friends simply paste in id to call section after that you will get a notification receive or deny.
 
-Preview The Live Project [click here](https://github.com/facebook/create-react-app).
+Preview The Live Project [click here](https://video-chat-zoom-clone.netlify.app/).
 
 ## Libraries are use:
 * Material UI
